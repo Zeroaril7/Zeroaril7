@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fakhril Ainur</h1>
-<h3 align="center">I'm new on world coding</h3>
+<h3 align="center">Bismillah Back End Dev & Andro Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeroaril7&label=Profile%20views&color=0e75b6&style=flat" alt="zeroaril7" /> </p>
 
